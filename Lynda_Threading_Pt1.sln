@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lynda_Threading_Pt1", "Lynda_Threading_Pt1\Lynda_Threading_Pt1.csproj", "{C7ACD791-D6CE-44B4-8953-CF608C5AFF97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextSwitching", "ContextSwitching\ContextSwitching.csproj", "{F44F3BC5-65E6-49EF-8C25-9251770AD1E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7ACD791-D6CE-44B4-8953-CF608C5AFF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7ACD791-D6CE-44B4-8953-CF608C5AFF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7ACD791-D6CE-44B4-8953-CF608C5AFF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44F3BC5-65E6-49EF-8C25-9251770AD1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44F3BC5-65E6-49EF-8C25-9251770AD1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44F3BC5-65E6-49EF-8C25-9251770AD1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44F3BC5-65E6-49EF-8C25-9251770AD1E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
