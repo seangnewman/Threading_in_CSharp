@@ -12,6 +12,7 @@ namespace ContextSwitching
         static void Main(string[] args)
         {
             Thread thread = new Thread(WriteUsingNewThread);
+            thread.Name = "Cody";
 
             // worker thread
             thread.Start();
